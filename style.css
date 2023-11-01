@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar1{
+    background-color: #94C973;
+}
+h1{
+    font-family: 'Cormorant Garamond', serif;
+font-family: 'DM Serif Display', serif;
+font-family: 'EB Garamond', serif;
+font-family: 'Playfair Display', serif;
+}
+.body{
+    background-color: #FBE39D;
+}
+hr{
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+    height: 3vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    display: flex;
+    justify-content: center;
+}
+.nav-item{
+    width: 12vw;
+    background-color: #F9D876;
+    border-radius: 10px;
+    margin-right: 2vw;
+}
+
+.nav-link{
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Playfair Display', serif;
+}
+.nav-item:hover{
+    transition: 0.25s;
+    background-color: #eecf72;
+}
+h2{
+    background-color: #98B66E;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Playfair Display', serif;
+}
+h2:hover{
+    transition: 0.25s;
+    background-color: #859f62;
+}
+.navbar1{
+    background-color: #98B66E;
+    
+}
+.card-body{
+    background-color: #94C973;
+}
+#section1{
+    background-color: #2F5233;
+}
+#btn{
+    background-color: #2F5233;
+}
+#card{
+    background-color:#859f62;
+}
+h5{
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Playfair Display', serif;
+}
